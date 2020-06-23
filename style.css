@@ -1,0 +1,24 @@
+body {
+    ;
+    background-color: lightgray;
+}
+h2 {
+    color: navy;
+    text-emphasis: bold;
+}
+a {
+color: navy;
+}
+#exampleMessage {
+    height: 350px;
+}
+hr {
+    background: darkgray
+    height:2px
+}
+.Job{
+    font-style: italic;
+}
+#homePicture {
+    margin-right: 15px;
+}
